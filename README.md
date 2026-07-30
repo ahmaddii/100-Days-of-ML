@@ -160,15 +160,15 @@ Progress:
 ```text
 100-Days-of-ML/
 
-├── Day-01/
-├── Day-02/
-├── Day-03/
-│
-├── Day-33/
-│
-├── datasets/
-├── notebooks/
-├── images/
+├── EDA/
+├── Preprocessing/
+├── Encoding/
+├── Scaling/
+├── Feature-Transformation/
+├── Pipelines/
+├── Datasets/
+├── Projects/
+├── Day-Exercises/
 └── README.md
 ```
 
