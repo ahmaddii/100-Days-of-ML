@@ -1,135 +1,260 @@
 # 🚀 100 Days of Machine Learning
 
-Welcome to my **100 Days of Machine Learning** journey! 🎯
+> **Day 33 / 100 Completed** ✅
+> Building a strong Machine Learning foundation through consistent daily learning.
 
-This repository documents my commitment to learning Machine Learning consistently for **100 days**. Every day I study new concepts, implement them in Python, solve practical problems, and upload my notebooks and code here.
-
-My goal is not just to complete the challenge, but to build a strong foundation in Machine Learning before moving on to Deep Learning and AI.
-
----
-
-## 📚 What You'll Find
-
-- 📖 Daily learning notes
-- 🐍 Python implementations
-- 📊 Data preprocessing
-- 📈 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning algorithms
-- 📉 Model evaluation
-- 🔬 Hands-on practice with datasets
-- 📝 Jupyter Notebooks
+![Progress](https://img.shields.io/badge/Progress-33%2F100-success)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
 ---
 
-## 🗂️ Learning Roadmap
+## 📖 About This Repository
 
-### Phase 1 – Python & Data Analysis
-- Python Refresher
-- NumPy
-- Pandas
-- Matplotlib
-- Data Cleaning
-- Data Visualization
+Welcome to my **100 Days of Machine Learning** journey!
 
-### Phase 2 – Data Preprocessing
-- Missing Value Handling
-- SimpleImputer
-- Feature Scaling
-- StandardScaler
-- MinMaxScaler
-- RobustScaler
-- Encoding Techniques
-- Column Transformer
-- Pipelines
+This repository documents my commitment to learning Machine Learning every single day. My goal isn't simply to finish the challenge—it's to deeply understand the concepts behind Machine Learning, implement them from scratch, and build practical projects along the way.
 
-### Phase 3 – Machine Learning
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Random Forest
-- Support Vector Machine (SVM)
-- Naive Bayes
-- K-Means Clustering
-- Principal Component Analysis (PCA)
+Every day includes hands-on coding, experiments, notes, visualizations, and real-world datasets.
 
-### Phase 4 – Model Evaluation
-- Train/Test Split
-- Cross Validation
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC-AUC
-
-### Phase 5 – Advanced Topics
-- Feature Engineering
-- Hyperparameter Tuning
-- Ensemble Learning
-- Model Deployment Basics
+My long-term goal is to build a strong ML foundation before moving into **Deep Learning**, **Generative AI**, and **MLOps**.
 
 ---
 
-## 🛠 Tech Stack
+# 📈 Current Progress
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-- Google Colab
+## ✅ Completed
 
----
+**Day 33 / 100**
 
-## 📅 Progress
+Progress:
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Introduction | ✅ |
-| Day 2 | Python Revision | ✅ |
-| Day 3 | NumPy | ✅ |
-| ... | ... | 🚀 |
-| Day 100 | Final Project | 🎯 |
+```text
+█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 33%
+```
+
+🎯 **67 Days Remaining**
 
 ---
 
-## 🎯 Goal
+# 📚 Topics Covered So Far
 
-By the end of this challenge, I aim to:
+## 🐍 Python & Data Analysis
 
-- Build a solid Machine Learning foundation
-- Understand algorithms mathematically and practically
-- Complete multiple real-world ML projects
-- Prepare for Deep Learning and AI
-- Create a portfolio that showcases consistent learning
+* Python Refresher
+* NumPy
+* Pandas
+* Data Analysis
+* Data Cleaning
+* Data Visualization
+* Matplotlib
 
 ---
 
-## ⭐ Why This Repository?
+## 🧹 Data Preprocessing
+
+### Missing Values
+
+* Missing Value Handling
+* SimpleImputer
+* Numerical Imputation
+* Categorical Imputation
+
+### Feature Scaling
+
+* StandardScaler
+* MinMaxScaler
+* RobustScaler
+* MaxAbsScaler
+
+### Encoding
+
+* One Hot Encoding
+* Ordinal Encoding
+* Label Encoding
+* Encoding High Cardinality Features
+* Encoding Numerical Features
+
+### Feature Transformation
+
+* Function Transformer
+* Log Transformation
+* Reciprocal Transformation
+* Square Root Transformation
+* Power Transformer
+
+  * Box-Cox
+  * Yeo-Johnson
+* Quantile Transformer
+* Binning / Discretization
+
+### Pipelines
+
+* ColumnTransformer
+* Scikit-learn Pipelines
+* Feature Engineering Workflow
+
+---
+
+## 🤖 Machine Learning
+
+### Supervised Learning
+
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Trees
+* Naive Bayes
+
+### Unsupervised Learning
+
+* K-Means Clustering
+
+### Dimensionality Reduction
+
+* Principal Component Analysis (PCA)
+
+---
+
+## 📊 Model Evaluation
+
+* Train/Test Split
+* Cross Validation
+* Accuracy Score
+* Confusion Matrix
+* Precision
+* Recall
+* F1 Score
+* ROC-AUC
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+* Understanding datasets
+* Feature distributions
+* Histograms
+* Boxplots
+* Scatter plots
+* Correlation analysis
+* QQ Plots
+* Outlier detection
+
+---
+
+## 🛠 Libraries Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+* Google Colab
+
+---
+
+# 📂 Repository Structure
+
+```text
+100-Days-of-ML/
+
+├── Day-01/
+├── Day-02/
+├── Day-03/
+│
+├── Day-33/
+│
+├── datasets/
+├── notebooks/
+├── images/
+└── README.md
+```
+
+---
+
+# 🎯 Goals
+
+By the end of this challenge I aim to:
+
+* Master Machine Learning fundamentals
+* Understand preprocessing techniques in depth
+* Build intuition behind ML algorithms
+* Implement complete ML pipelines
+* Complete multiple real-world projects
+* Build a strong GitHub portfolio
+* Prepare for Deep Learning
+* Prepare for AI Engineering roles
+
+---
+
+# 🚀 Upcoming Topics
+
+The remaining journey includes:
+
+* Random Forest
+* Support Vector Machine (SVM)
+* Ensemble Learning
+* Hyperparameter Tuning
+* Feature Selection
+* Advanced Feature Engineering
+* Model Deployment
+* End-to-End Machine Learning Projects
+
+---
+
+# 🌱 Why This Repository?
 
 This repository serves as:
 
-- My personal learning journal
-- A reference for future revision
-- A resource for beginners learning Machine Learning
-- A showcase of my consistency and growth
+* 📘 My personal learning journal
+* 🧠 Revision notes
+* 💻 Practical Machine Learning implementations
+* 🚀 A public record of consistent learning
+* 🎯 A resource for beginners starting Machine Learning
 
 ---
 
-## 🤝 Contributions
+# 🤝 Contributions
 
-This is primarily a personal learning repository, but suggestions, improvements, and feedback are always welcome.
+Although this is a personal learning repository, feedback, suggestions, and improvements are always welcome.
+
+Feel free to:
+
+* Open an Issue
+* Submit a Pull Request
+* Share ideas
+* Discuss Machine Learning concepts
 
 ---
 
-## 📬 Connect With Me
+# 📬 Let's Connect
 
-If you're also learning Machine Learning, feel free to connect or follow along on my journey!
+If you're also learning Machine Learning, feel free to follow my journey.
 
-⭐ If you find this repository helpful, consider giving it a star!
+If this repository helps you learn something new,
+
+⭐ **Please consider giving it a Star!**
+
+It motivates me to continue learning and sharing my progress.
 
 ---
 
-**Happy Learning! 🚀**
+# 🚀 Current Mission
+
+```
+100 Days of Machine Learning
+⬇
+Deep Learning
+⬇
+Generative AI
+⬇
+AI Engineer
+```
+
+---
+
+> **"Small progress every day compounds into remarkable results."**
+
+Thank you for visiting my repository. Happy Learning! 🚀
