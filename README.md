@@ -1,260 +1,213 @@
+<div align="center">
+
 # 🚀 100 Days of Machine Learning
 
-> **Day 33 / 100 Completed** ✅
-> Building a strong Machine Learning foundation through consistent daily learning.
+### Building a strong ML foundation, one day at a time.
 
-![Progress](https://img.shields.io/badge/Progress-33%2F100-success)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+<br/>
+
+![Progress](https://img.shields.io/badge/Progress-33%2F100-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-ahmad-rasheed-3768902a9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadrasheedbb.vercel.app/)
+
+<br/>
+
+**⭐ If this repo helps you, consider starring it — it keeps the streak alive!**
+
+</div>
 
 ---
 
 ## 📖 About This Repository
 
-Welcome to my **100 Days of Machine Learning** journey!
+Welcome to my **100 Days of Machine Learning** journey! This repo is a daily, hands-on log of learning ML from the ground up — not just finishing a checklist, but truly understanding the *why* behind every algorithm.
 
-This repository documents my commitment to learning Machine Learning every single day. My goal isn't simply to finish the challenge—it's to deeply understand the concepts behind Machine Learning, implement them from scratch, and build practical projects along the way.
+Each day includes:
 
-Every day includes hands-on coding, experiments, notes, visualizations, and real-world datasets.
+- 🧠 Concept notes & intuition
+- 💻 Code implementations (from scratch + with libraries)
+- 📊 Visualizations & experiments
+- 📁 Real-world datasets
 
-My long-term goal is to build a strong ML foundation before moving into **Deep Learning**, **Generative AI**, and **MLOps**.
-
----
-
-# 📈 Current Progress
-
-## ✅ Completed
-
-**Day 33 / 100**
-
-Progress:
-
-```text
-█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 33%
-```
-
-🎯 **67 Days Remaining**
+**Long-term roadmap:** ML Foundations → Deep Learning → Generative AI → MLOps → AI Engineer
 
 ---
 
-# 📚 Topics Covered So Far
+## 📈 Progress Tracker
 
-## 🐍 Python & Data Analysis
+<div align="center">
 
-* Python Refresher
-* NumPy
-* Pandas
-* Data Analysis
-* Data Cleaning
-* Data Visualization
-* Matplotlib
+### Day 33 / 100
 
----
+`█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░` **33%**
 
-## 🧹 Data Preprocessing
+| ✅ Days Completed | 🔜 Days Remaining | 🎯 Target |
+|:---:|:---:|:---:|
+| **33** | **67** | **100** |
 
-### Missing Values
-
-* Missing Value Handling
-* SimpleImputer
-* Numerical Imputation
-* Categorical Imputation
-
-### Feature Scaling
-
-* StandardScaler
-* MinMaxScaler
-* RobustScaler
-* MaxAbsScaler
-
-### Encoding
-
-* One Hot Encoding
-* Ordinal Encoding
-* Label Encoding
-* Encoding High Cardinality Features
-* Encoding Numerical Features
-
-### Feature Transformation
-
-* Function Transformer
-* Log Transformation
-* Reciprocal Transformation
-* Square Root Transformation
-* Power Transformer
-
-  * Box-Cox
-  * Yeo-Johnson
-* Quantile Transformer
-* Binning / Discretization
-
-### Pipelines
-
-* ColumnTransformer
-* Scikit-learn Pipelines
-* Feature Engineering Workflow
+</div>
 
 ---
 
-## 🤖 Machine Learning
+## 🗂️ Curriculum Covered So Far
 
-### Supervised Learning
+<details open>
+<summary><b>🐍 Python & Data Analysis</b></summary>
+<br/>
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Decision Trees
-* Naive Bayes
+| Topic | Topic | Topic |
+|---|---|---|
+| Python Refresher | NumPy | Pandas |
+| Data Analysis | Data Cleaning | Data Visualization |
+| Matplotlib | | |
 
-### Unsupervised Learning
+</details>
 
-* K-Means Clustering
+<details open>
+<summary><b>🧹 Data Preprocessing</b></summary>
+<br/>
 
-### Dimensionality Reduction
+**Missing Values**
+`Missing Value Handling` · `SimpleImputer` · `Numerical Imputation` · `Categorical Imputation`
 
-* Principal Component Analysis (PCA)
+**Feature Scaling**
+`StandardScaler` · `MinMaxScaler` · `RobustScaler` · `MaxAbsScaler`
+
+**Encoding**
+`One Hot Encoding` · `Ordinal Encoding` · `Label Encoding` · `High Cardinality Encoding` · `Encoding Numerical Features`
+
+**Feature Transformation**
+`Function Transformer` · `Log Transformation` · `Reciprocal Transformation` · `Square Root Transformation` · `Power Transformer (Box-Cox, Yeo-Johnson)` · `Quantile Transformer` · `Binning / Discretization`
+
+**Pipelines**
+`ColumnTransformer` · `Scikit-learn Pipelines` · `Feature Engineering Workflow`
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning Algorithms</b></summary>
+<br/>
+
+| Category | Algorithms |
+|---|---|
+| **Supervised** | Linear Regression, Logistic Regression, K-Nearest Neighbors, Decision Trees, Naive Bayes |
+| **Unsupervised** | K-Means Clustering |
+| **Dimensionality Reduction** | Principal Component Analysis (PCA) |
+
+</details>
+
+<details open>
+<summary><b>📊 Model Evaluation</b></summary>
+<br/>
+
+`Train/Test Split` · `Cross Validation` · `Accuracy Score` · `Confusion Matrix` · `Precision` · `Recall` · `F1 Score` · `ROC-AUC`
+
+</details>
+
+<details open>
+<summary><b>🔍 Exploratory Data Analysis (EDA)</b></summary>
+<br/>
+
+`Feature Distributions` · `Histograms` · `Boxplots` · `Scatter Plots` · `Correlation Analysis` · `QQ Plots` · `Outlier Detection`
+
+</details>
 
 ---
 
-## 📊 Model Evaluation
+## 🚀 Upcoming Topics
 
-* Train/Test Split
-* Cross Validation
-* Accuracy Score
-* Confusion Matrix
-* Precision
-* Recall
-* F1 Score
-* ROC-AUC
-
----
-
-## 🔍 Exploratory Data Analysis (EDA)
-
-* Understanding datasets
-* Feature distributions
-* Histograms
-* Boxplots
-* Scatter plots
-* Correlation analysis
-* QQ Plots
-* Outlier detection
+- [ ] Random Forest
+- [ ] Support Vector Machine (SVM)
+- [ ] Ensemble Learning
+- [ ] Hyperparameter Tuning
+- [ ] Feature Selection
+- [ ] Advanced Feature Engineering
+- [ ] Model Deployment
+- [ ] End-to-End ML Projects
 
 ---
 
-## 🛠 Libraries Used
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
-* Google Colab
-
----
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 100-Days-of-ML/
-
-├── EDA/
-├── Preprocessing/
-├── Encoding/
-├── Scaling/
-├── Feature-Transformation/
-├── Pipelines/
-├── Datasets/
-├── Projects/
-├── Day-Exercises/
+├── EDA/                    # Exploratory data analysis notebooks
+├── Preprocessing/          # Missing values, transformations, pipelines
+├── Encoding/                # Categorical encoding techniques
+├── Scaling/                 # Feature scaling methods
+├── Feature-Transformation/  # Power, log, quantile transforms
+├── Pipelines/               # End-to-end sklearn pipelines
+├── Datasets/                # Sample datasets used
+├── Projects/                # Applied mini-projects
+├── Day-Exercises/           # Daily practice notebooks
 └── README.md
 ```
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
-By the end of this challenge I aim to:
-
-* Master Machine Learning fundamentals
-* Understand preprocessing techniques in depth
-* Build intuition behind ML algorithms
-* Implement complete ML pipelines
-* Complete multiple real-world projects
-* Build a strong GitHub portfolio
-* Prepare for Deep Learning
-* Prepare for AI Engineering roles
-
----
-
-# 🚀 Upcoming Topics
-
-The remaining journey includes:
-
-* Random Forest
-* Support Vector Machine (SVM)
-* Ensemble Learning
-* Hyperparameter Tuning
-* Feature Selection
-* Advanced Feature Engineering
-* Model Deployment
-* End-to-End Machine Learning Projects
+| Goal | Status |
+|---|:---:|
+| Master ML fundamentals | 🟡 In Progress |
+| Deep-dive preprocessing techniques | 🟡 In Progress |
+| Build algorithm intuition | 🟡 In Progress |
+| Implement complete ML pipelines | 🟡 In Progress |
+| Ship real-world projects | ⬜ Upcoming |
+| Build a strong GitHub portfolio | 🟡 In Progress |
+| Prepare for Deep Learning | ⬜ Upcoming |
+| Prepare for AI Engineering roles | ⬜ Upcoming |
 
 ---
 
-# 🌱 Why This Repository?
-
-This repository serves as:
-
-* 📘 My personal learning journal
-* 🧠 Revision notes
-* 💻 Practical Machine Learning implementations
-* 🚀 A public record of consistent learning
-* 🎯 A resource for beginners starting Machine Learning
-
----
-
-# 🤝 Contributions
-
-Although this is a personal learning repository, feedback, suggestions, and improvements are always welcome.
-
-Feel free to:
-
-* Open an Issue
-* Submit a Pull Request
-* Share ideas
-* Discuss Machine Learning concepts
-
----
-
-# 📬 Let's Connect
-
-If you're also learning Machine Learning, feel free to follow my journey.
-
-If this repository helps you learn something new,
-
-⭐ **Please consider giving it a Star!**
-
-It motivates me to continue learning and sharing my progress.
-
----
-
-# 🚀 Current Mission
+## 🧭 The Journey
 
 ```
 100 Days of Machine Learning
-⬇
-Deep Learning
-⬇
-Generative AI
-⬇
-AI Engineer
+        ⬇
+    Deep Learning
+        ⬇
+    Generative AI
+        ⬇
+      MLOps
+        ⬇
+    AI Engineer 🎓
 ```
 
 ---
 
-> **"Small progress every day compounds into remarkable results."**
+## 🤝 Contributing
 
-Thank you for visiting my repository. Happy Learning! 🚀
+This is a personal learning log, but feedback and discussion are always welcome!
+
+- 🐛 Open an [Issue](../../issues)
+- 🔀 Submit a [Pull Request](../../pulls)
+- 💬 Share ideas or start a discussion
+
+---
+
+## 📬 Let's Connect
+
+If you're on your own ML journey too, feel free to follow along, fork this repo, or reach out.
+
+<div align="center">
+
+### If this repository helped you learn something new, please consider giving it a ⭐
+
+> *"Small progress every day compounds into remarkable results."*
+
+**Happy Learning! 🚀**
+
+</div>
