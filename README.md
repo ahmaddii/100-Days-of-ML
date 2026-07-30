@@ -143,15 +143,16 @@ Each day includes:
 
 ```text
 100-Days-of-ML/
-├── EDA/                    # Exploratory data analysis notebooks
-├── Preprocessing/          # Missing values, transformations, pipelines
-├── Encoding/                # Categorical encoding techniques
-├── Scaling/                 # Feature scaling methods
-├── Feature-Transformation/  # Power, log, quantile transforms
-├── Pipelines/               # End-to-end sklearn pipelines
-├── Datasets/                # Sample datasets used
-├── Projects/                # Applied mini-projects
-├── Day-Exercises/           # Daily practice notebooks
+
+├── EDA/
+├── Preprocessing/
+├── Encoding/
+├── Scaling/
+├── Feature-Transformation/
+├── Pipelines/
+├── Datasets/
+├── Projects/
+├── Day-Exercises/
 └── README.md
 ```
 
