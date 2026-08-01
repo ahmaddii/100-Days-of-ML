@@ -6,7 +6,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Progress-33%2F100-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-35%2F100-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
